@@ -434,3 +434,9 @@ footer .copyright {
   bottom: 25px;
   opacity: 1;
 }
+
+/* Cards */
+.card-img-top {
+  max-height: 300px;
+  object-fit: cover;
+}
