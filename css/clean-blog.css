@@ -184,7 +184,7 @@ header.masthead .overlay {
   height: 100%;
   width: 100%;
   background-color: #212529;
-  opacity: 0.7;
+  opacity: 0.9;
 }
 
 header.masthead .page-heading,
@@ -439,4 +439,8 @@ footer .copyright {
 .card-img-top {
   max-height: 300px;
   object-fit: cover;
+}
+
+.top-align {
+  object-position: center top;
 }
